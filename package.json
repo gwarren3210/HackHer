@@ -1,23 +1,23 @@
 {
-   "name": "gavriel-warren",
-   "version": "1.0.0",
-   "description": "hackher project",
-   "main": "index.js",
-   "scripts": {
-     "test": "jest"
-   },
-   "repository": {
-     "type": "git",
-     "url": "git+https://github.com/gwarren3210/HackHer.git"
-   },
-   "keywords": [
-     "social",
-     "media"
-   ],
-   "author": "Gavriel Warren",
-   "license": "MIT",
-   "bugs": {
-     "url": "https://github.com/gwarren3210/HackHer/issues"
-   },
-   "homepage": "https://github.com/gwarren3210/HackHer#readme"
- } 
+  "name": "gavriel-warren",
+  "version": "1.0.0",
+  "description": "hackher project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwarren3210/HackHer.git"
+  },
+  "keywords": [
+    "social",
+    "media"
+  ],
+  "author": "Gavriel Warren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gwarren3210/HackHer/issues"
+  },
+  "homepage": "https://github.com/gwarren3210/HackHer#readme"
+}
